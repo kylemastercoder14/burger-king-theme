@@ -1,0 +1,21 @@
+{
+  "name": "burger-king-theme",
+  "displayName": "Burger King Theme",
+  "description": "This theme is inspired by Burger King",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Burger King Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Burger King Theme-color-theme.json"
+      }
+    ]
+  }
+}
