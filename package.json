@@ -3,6 +3,23 @@
   "displayName": "Burger King Theme",
   "description": "This theme is inspired by Burger King",
   "version": "0.0.1",
+  "publisher": "KyleAndreLim",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kylemastercoder14/burger-king-theme"
+
+  },
+  "icon": "logo.png",
+  "keywords": [
+    "theme",
+    "burger theme",
+    "burger king theme",
+    "dark theme",
+    "kyle theme",
+    "dark mode",
+    "burger",
+    "burger king"
+  ],
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -14,7 +31,7 @@
       {
         "label": "Burger King Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Burger King Theme-color-theme.json"
+        "path": "./themes/Burger King Theme-color-theme.json",
       }
     ]
   }
